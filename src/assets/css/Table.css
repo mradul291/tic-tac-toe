@@ -1,0 +1,74 @@
+:root {
+	--Table-background: none;
+	--border-color: #cec4c5;
+	--border-thickness: 5px;
+}
+
+.input{
+	height: 38.33%;
+	width: 30.33%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: whitesmoke;
+	font-style: arial;
+	font-weight: 700;
+	font-size: 4rem;
+}
+
+.inputValue1{
+	border-right: var(--border-thickness)
+	solid var(--border-color);
+	border-bottom: var(--border-thickness)
+	solid var(--border-color);
+}
+
+.inputValue2{
+	border-right: var(--border-thickness)
+	solid var(--border-color);
+	border-bottom: var(--border-thickness)
+	solid var(--border-color);
+}
+
+.inputValue3{
+	border-bottom: var(--border-thickness)
+	solid var(--border-color);
+}
+
+.inputValue4{
+	border-right: var(--border-thickness)
+	solid var(--border-color);
+	border-bottom: var(--border-thickness)
+	solid var(--border-color);
+}
+
+.inputValue5{
+	border-right: var(--border-thickness)
+	solid var(--border-color);
+	border-bottom: var(--border-thickness)
+	solid var(--border-color);
+}
+
+.inputValue6{
+	border-bottom: var(--border-thickness)
+	solid var(--border-color);
+}
+
+.inputValue7{
+	border-right: var(--border-thickness)
+	solid var(--border-color);
+}
+
+.inputValue8{
+	border-right: var(--border-thickness)
+	solid var(--border-color);
+}
+.Table{
+	width: 30vw;
+	height: 50%;
+	display: flex;
+	align-items: flex-start;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}

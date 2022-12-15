@@ -1,0 +1,19 @@
+
+.player {
+	border-radius: 9%;
+	padding: .5rem 0;
+	display: flex;
+	font-size: 1.5rem;
+	justify-content: center;
+	align-items: center;
+	width: 10vw;
+	margin-top: 36px;
+}
+.Description {
+	width: 30vw;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	color: whitesmoke;
+}
+
